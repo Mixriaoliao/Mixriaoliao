@@ -9,7 +9,7 @@ I am not a traditional "coding since childhood" developer, but I enjoy turning r
 
 ## What I'm interested in
 
-- AI Applications
+- AI Applications.
 - Prompt Engineering
 - Agent / RAG Workflows
 - Product Prototypes
